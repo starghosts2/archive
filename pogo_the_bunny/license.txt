@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pogo The Bunny
+* source:	https://sketchfab.com/3d-models/pogo-the-bunny-31fa02697e5547c1a52403c13b66ae0e
+* author:	charliescrunch (https://sketchfab.com/charliescrunch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pogo The Bunny" (https://sketchfab.com/3d-models/pogo-the-bunny-31fa02697e5547c1a52403c13b66ae0e) by charliescrunch (https://sketchfab.com/charliescrunch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
