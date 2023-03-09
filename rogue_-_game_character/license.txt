@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rogue - Game Character
+* source:	https://sketchfab.com/3d-models/rogue-game-character-09864e14139e4b02a1d324645690af01
+* author:	zeintendy (https://sketchfab.com/zeintendy)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rogue - Game Character" (https://sketchfab.com/3d-models/rogue-game-character-09864e14139e4b02a1d324645690af01) by zeintendy (https://sketchfab.com/zeintendy) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
