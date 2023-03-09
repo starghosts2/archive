@@ -1,0 +1,11 @@
+Model Information:
+* title:	HGs (old) => Mage (PC/Console)
+* source:	https://sketchfab.com/3d-models/hgs-old-mage-pcconsole-056c701100584c9abbd89015c49d9e9b
+* author:	Leonardo Carvalho (https://sketchfab.com/livrosparacriancas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HGs (old) => Mage (PC/Console)" (https://sketchfab.com/3d-models/hgs-old-mage-pcconsole-056c701100584c9abbd89015c49d9e9b) by Leonardo Carvalho (https://sketchfab.com/livrosparacriancas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
